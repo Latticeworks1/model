@@ -17,7 +17,7 @@ Launch into a [JupyterLab](https://jupyterlab.readthedocs.io) environment on
 
 ### Basic
 
-To help out with development, start by cloning this [repo-url](/../../)
+To help out with development, start by cloning this [repo-url](https://github.com/Clay-foundation/model.git)
 
     git clone <repo-url>
     cd model
